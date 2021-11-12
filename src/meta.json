@@ -6,5 +6,6 @@
   "@license": "MIT",
   "@version": "0.0.1",
   "@description": "西南网教答题助手",
-  "@name": "西南网教(辅助答题)"
+  "@name": "西南网教(辅助答题)",
+  "@namespace": "https://github.com/zaxtseng/Southwest-Assistant"
 }

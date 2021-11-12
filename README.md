@@ -8,6 +8,7 @@ This template should help get you started developing Tampermonkey UserScript.
 - Support deal with static resources
 - Support international languages
 - It's build with rollup, thus you can add external plugins to achieve needed helpers
+刚做的脚本,自动答题(不支持问答题),有需要的可以去油猴下载,帮忙测试有咩有啥bug
 
 ## Settings
 

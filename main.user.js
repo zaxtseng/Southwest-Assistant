@@ -1,7 +1,7 @@
 
 // ==UserScript==
 // @name           西南网教(辅助答题)
-// @namespace      west-homework
+// @namespace      https://github.com/zaxtseng/Southwest-Assistant
 // @version        0.0.1
 // @description    西南网教答题助手
 // @include        *://zuoye.eduwest.com/homeworkquestions/*
@@ -106,6 +106,8 @@
 
         if (flag1) {
           checkboxElements[0].checked ? '' : checkboxElements[0].click();
+        } else {
+          checkboxElements[0].click();
         } //提交
 
 

@@ -87,6 +87,8 @@ if(checkElements.length){
           let flag1 = arr.some(item => item=='A')
           if(flag1){
             checkboxElements[0].checked ? '' : checkboxElements[0].click()
+          }else{
+            checkboxElements[0].click()
           }
           //提交
         submitBtn.click()
