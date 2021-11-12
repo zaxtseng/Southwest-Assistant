@@ -1,0 +1,28 @@
+.DS_Store
+node_modules
+**/dist
+**/lib
+**/lib-types
+.history
+**/segi-ant-theme.less
+.rollup.cache
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+tsconfig.tsbuildinfo
+
+.vercel
